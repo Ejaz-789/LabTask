@@ -1,4 +1,8 @@
 # LabTask
+This is Website for Comsats University Islamabad Attock campus.
+it contains three pages:
+1 Home
+2 About
+3 Contact
 
-The Website well show about the Cui Attock campus details.I you are interested 
-to get admission to go site Cui.edu.pk.
+you can email us on cui.edu.pk
